@@ -130,7 +130,8 @@ I regularly practice **Data Structures, Algorithms and SQL**.
 I'm also participating in a **100 Days of LeetCode** journey to
 strengthen my problem-solving and DSA skills.
 
-➡️ **[View my LeetCode Profile]https://leetcode.com/u/Ishika_kaushal/
+➡️ View my LeetCode Profile 
+https://leetcode.com/u/Ishika_kaushal/
 
 ---
 
